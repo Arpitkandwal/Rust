@@ -1,1 +1,1 @@
-This Repository shows the Basic Concept of Ownership & Borrowing In Rust.
+This Repository shows the Practical Examples of Concepts in Rust.
