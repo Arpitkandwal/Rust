@@ -76,6 +76,7 @@ fn get_book(book: Book) -> [String; 3] {
 
 
 
+
 fn concatenate_string(s1: &str, s2: &str) -> String {
     let mut result = String::new();
 
